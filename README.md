@@ -1,3 +1,3 @@
-# flutter_card_3
+# PavlovaCard
 
 A new Flutter project.
